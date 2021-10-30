@@ -1,4 +1,4 @@
-# ImagesApp
+# ImagesAppSwiftUI
 
 SwiftUI app that display a list of images, has the ability to search images and favorite an image. The app demonstrates how to handle concurrency and state changes with SwiftUI. 
 
