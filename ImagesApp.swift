@@ -2,7 +2,7 @@
 //  ImagesApp.swift
 //  Images
 //
-//  Created by Asge Yohannes on 10/29/21.
+//  Created by AsgeY on 10/29/21.
 //
 
 import SwiftUI
