@@ -9,7 +9,7 @@ Features
 - Favorite an image.
 
 
+![Image1](https://user-images.githubusercontent.com/43711479/139517276-56422553-5490-4915-8cfe-9b0825935e8e.jpeg)
 
-![image](https://user-images.githubusercontent.com/43711479/139517214-f707bf2e-ee0a-497c-99b1-0dd740254fae.jpeg)
 
 
