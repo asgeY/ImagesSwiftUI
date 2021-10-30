@@ -8,7 +8,8 @@ Features
 - Search Images.
 - Favorite an image.
 
-![image](https://user-images.githubusercontent.com/43711479/139517438-91e70fbe-35bf-4228-b2ef-2e895c3f62ef.jpeg)
+![Image1 copy](https://user-images.githubusercontent.com/43711479/139517463-77e9ef12-ded3-4485-9de3-3b3a425dccc4.jpeg)
+
 
 ![images2](https://user-images.githubusercontent.com/43711479/139517384-4f49387f-600c-48d1-8505-0b5d85ab4ff1.png)
 
